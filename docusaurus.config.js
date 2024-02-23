@@ -8,21 +8,21 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Mi Web',
-  tagline: 'Manuales de Instlación',
+  title: 'My Site',
+  tagline: 'Manuales de Instalacion',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://github.com/jhonjr07',
+  url: 'https://jhonjr07.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Docosaurus/',
+  baseUrl: '/documentacion/',
 
   // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'jhonjr07', // Usually your GitHub org/user name.
-  projectName: 'Docosaurus', // Usually your repo name.
+  organizationName: 'jhonjr07',
+  projectName: 'Docosaurus',
   deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
