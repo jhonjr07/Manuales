@@ -1,6 +1,5 @@
 ---
-sidebar_label: 'Valet - Linux'
-title: 'Valet - Linux'
+sidebar_position: 4
 --- 
 
 # Manual de Instalación
