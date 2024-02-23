@@ -1,5 +1,6 @@
 ---
-sidebar_position: 2
+sidebar_label: 'Linux - Gestión externa de SSL'
+title: 'Linux - Gestión externa de SSL'
 ---
 
 # Docker - Linux

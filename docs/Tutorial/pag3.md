@@ -1,5 +1,6 @@
 ---
-sidebar_position: 3
+sidebar_label: 'Docker - Linux - SSL'
+title: 'Docker - Linux - SSL'
 ---
 
 # Docker - GitLab
